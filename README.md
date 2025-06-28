@@ -38,5 +38,3 @@ Hi Developers,
 #weight_converter_program.py<br>
 ![weight](https://github.com/user-attachments/assets/e8977a93-edd3-4af7-8644-9e99d082ded8)
 
-
-![weight](https://github.com/user-attachments/assets/5ee9657c-f6b4-415f-a86c-c1cb34040dd0)
