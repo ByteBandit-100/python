@@ -1,5 +1,5 @@
-![find_grade_program](https://github.com/user-attachments/assets/6408eeca-2720-499c-b0b0-8dc48e036af3)# python
-Hi Developers,
+
+#Hi Developers,
   This is my python practice.
 
 #cui_calculator_program.py<br>
