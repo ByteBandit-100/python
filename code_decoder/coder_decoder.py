@@ -13,7 +13,7 @@ def gen_key():
 while 1 :
     print("\n------------------ 💀 ZeeCoDe 💀 -----------------\n")
     print(f" 💠 For Encryption press e\n 💠 For Decryption press d\n 💠 For {"exit".center(10)} press q \n")
-    user_choice = input("↪️ What you want Encryption  or Decryption data : ").lower()
+    user_choice = input("↪️ What you want Encryption  or Decryption data : ").lower().strip()
     if user_choice == 'e':
         user_input_string = input('↪️ Enter data which you want to encrypt : ')
         encode_list = []
