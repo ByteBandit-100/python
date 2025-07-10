@@ -1,0 +1,21 @@
+----------- Gun Snake Water Game history ----------
+Player : Mohit
+Round 1 :
+	Mohit           : Snake
+	Computer      : Snake
+
+Round 2 :
+	Mohit           : Gun
+	Computer      : Snake
+
+Round 3 :
+	Mohit           : Snake
+	Computer      : Gun
+
+Result : Player Score   = 2
+         Computer Score = 2
+
+--> Draw
+Date:: 2025 Jul 10	Time:: 19:59:45
+--------------------- X ---------------------
+
