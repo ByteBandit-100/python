@@ -1,4 +1,4 @@
-#Gun Snake Water Game<br>
+# Gun Snake Water Game<br>
 This program may handle the game and file handling for time to time history<br>
 
 Preview ::<br>
