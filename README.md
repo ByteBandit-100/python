@@ -1,6 +1,6 @@
 
-#Hi Developers,
-  This is my python practice.
+#Hi Developers,<br>
+  This is my python practice.<br>
 
 #cui_calculator_program.py<br>
 ![cui_calculator](https://github.com/user-attachments/assets/bfbde0db-8841-4dbd-a844-954e86694b4c)
